@@ -1,7 +1,7 @@
 # tech_portfolio
 
 
-### 1. In-vehicle Coupon Recommendation Data Analysis
+##In-vehicle Coupon Recommendation Data Analysis
 
 #### "데이터사이언스 공통 중 Python, SQL, R, Java, Scala, Go, C/C++, Javascript 등 데이터 처리 언어 활용 능력"
 
